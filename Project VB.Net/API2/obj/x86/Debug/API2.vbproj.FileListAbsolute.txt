@@ -1,0 +1,16 @@
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API2\obj\x86\Debug\API2.vbprojResolveAssemblyReference.cache
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API2\obj\x86\Debug\API2.Form1.resources
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API2\obj\x86\Debug\API2.Resources.resources
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API2\obj\x86\Debug\API2.vbproj.GenerateResource.Cache
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API2\bin\Debug\API2.exe
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API2\bin\Debug\API2.pdb
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API2\bin\Debug\API2.xml
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API2\obj\x86\Debug\API2.exe
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API2\obj\x86\Debug\API2.xml
+C:\Users\SYAFIRA\AppData\Local\Temporary Projects\API2\obj\x86\Debug\API2.pdb
+C:\KULIAH\SEMESTER 4\IPAT\VB\API2\API2\obj\x86\Debug\API2.exe
+C:\KULIAH\SEMESTER 4\IPAT\VB\API2\API2\obj\x86\Debug\API2.xml
+C:\KULIAH\SEMESTER 4\IPAT\VB\API2\API2\obj\x86\Debug\API2.pdb
